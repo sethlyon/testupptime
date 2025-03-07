@@ -19,5 +19,6 @@ status-website:
     - title: Status
       href: /
   theme: light
+  favicon: https://www.nodeengine.io/favicon.ico
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
