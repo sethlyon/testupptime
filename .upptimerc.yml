@@ -20,5 +20,13 @@ status-website:
       href: /
   theme: light
   favicon: https://www.nodeengine.io/favicon.ico
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/30 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
