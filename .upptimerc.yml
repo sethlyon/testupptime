@@ -9,9 +9,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
   name: ""
-  cname: status.blockfabric.host
+  #cname: status.blockfabric.host
   baseUrl: /testupptime
   logoUrl: https://cdn.prod.website-files.com/655503c13c953a173426d4d2/655555d40d0e5b01bbd48646_Block%20Fabric%20Logo%20(2).svg
   introTitle: "Blockfabric Status Page"
